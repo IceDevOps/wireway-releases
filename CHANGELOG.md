@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.5 — 2026-09-15
+- Cut sheet and panel layout now use the same color for each stick, so a piece on the panel can be matched to its stick at a glance.
+
 ## v1.0.4 — 2026-09-15
 - New name and logo: WirewayOpTi. Existing installs update automatically.
 
