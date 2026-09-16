@@ -12,8 +12,6 @@ installer, no Python. Double-click to run.
   code-signed — click **More info**, then **Run anyway**.
 - The app keeps itself up to date: on startup it downloads a newer
   version in the background and applies it when you restart or close it.
-  (`Wireway.exe` is the same file under the pre-rebrand name, kept for
-  older installs.)
 - Before exporting a DXF for Wireway, hide the hardware and panel-cover
   layers — slotted hardware can be mistaken for duct.
 
