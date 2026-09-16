@@ -1,18 +1,19 @@
-# Wireway — desktop app downloads
+# WirewayOpTi — desktop app downloads
 
-Wireway reads a panel-layout DXF and produces the wireway cut plan, panel
+WirewayOpTi reads a panel-layout DXF and produces the wireway cut plan, panel
 layout, and the AutoCAD mounting-hole script.
 
 **To install or update:** open the
 [Releases](https://github.com/IceDevOps/wireway-releases/releases/latest)
-page, download `Wireway.exe`, and put it anywhere (Desktop is fine). No
+page, download `WirewayOpTi.exe`, and put it anywhere (Desktop is fine). No
 installer, no Python. Double-click to run.
 
 - Windows SmartScreen may warn the first time because the file isn't
   code-signed — click **More info**, then **Run anyway**.
-- The app checks this page on startup and shows an "Update available"
-  link when a newer version has been published. Download the new
-  `Wireway.exe` and replace the old one.
+- The app keeps itself up to date: on startup it downloads a newer
+  version in the background and applies it when you restart or close it.
+  (`Wireway.exe` is the same file under the pre-rebrand name, kept for
+  older installs.)
 - Before exporting a DXF for Wireway, hide the hardware and panel-cover
   layers — slotted hardware can be mistaken for duct.
 
