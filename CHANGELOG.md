@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.4 — 2026-09-15
+- New name and logo: WirewayOpTi. Existing installs update automatically.
+
 ## v1.0.3 — 2026-09-15
 - The app now updates itself: a newer release is downloaded and verified in the background and applied when you restart or close the app.
 
