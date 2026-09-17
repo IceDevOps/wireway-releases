@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.8 — 2026-09-17
+- Run schedule: no more empty strip on the right of the table.
+
 ## v1.0.7 — 2026-09-17
 - Run schedule: fixed-width columns, headings aligned with their values, inches and mm in separate right-aligned columns.
 
