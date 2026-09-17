@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.6 — 2026-09-16
+- Fixed misaligned columns in the Run schedule table.
+
 ## v1.0.5 — 2026-09-15
 - Cut sheet and panel layout now use the same color for each stick, so a piece on the panel can be matched to its stick at a glance.
 
