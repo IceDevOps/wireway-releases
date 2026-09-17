@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.9 — 2026-09-17
+- Run schedule: Stock size column moved right.
+
 ## v1.0.8 — 2026-09-17
 - Run schedule: no more empty strip on the right of the table.
 
