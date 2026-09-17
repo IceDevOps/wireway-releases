@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.11 — 2026-09-17
+- Backplate/enclosure corner mounting holes near a duct's slots are no longer mistaken for a collision; a new test file's stray export geometry cleaned up.
+
 ## v1.0.10 — 2026-09-17
 - Mounting holes now preserve every other original stock position through cuts and flips, without changing regenerated slot placement. Duplicate source ovals no longer produce extra holes.
 
