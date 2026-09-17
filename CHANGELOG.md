@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.12 — 2026-09-17
+- Detailed panel and cut-plan PNGs now show the real slot pattern on untouched full-length sticks as well as optimized cut pieces.
+
 ## v1.0.11 — 2026-09-17
 - Backplate/enclosure corner mounting holes near a duct's slots are no longer mistaken for a collision; a new test file's stray export geometry cleaned up.
 
