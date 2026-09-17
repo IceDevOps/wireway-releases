@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.7 — 2026-09-17
+- Run schedule: fixed-width columns, headings aligned with their values, inches and mm in separate right-aligned columns.
+
 ## v1.0.6 — 2026-09-16
 - Fixed misaligned columns in the Run schedule table.
 
