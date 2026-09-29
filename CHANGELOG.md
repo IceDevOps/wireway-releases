@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.14 — 2026-09-29
+- Cut plan: fixed a case where the packer could leave one stick with an unnecessarily large gap between two paired pieces even though a same-cost, better-spread pairing existed.
+
 ## v1.0.13 — 2026-09-29
 - Factory-edge preservation: finished pieces now come from the original ends of each stock stick, with a maximum of two pieces per stick and the remnant left in the center. Cut diagrams and mounting-hole placement follow the physical layout, including flipped right-end pieces.
 
