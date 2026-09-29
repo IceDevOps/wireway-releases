@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.13 — 2026-09-29
+- Factory-edge preservation: finished pieces now come from the original ends of each stock stick, with a maximum of two pieces per stick and the remnant left in the center. Cut diagrams and mounting-hole placement follow the physical layout, including flipped right-end pieces.
+
 ## v1.0.12 — 2026-09-17
 - Detailed panel and cut-plan PNGs now show the real slot pattern on untouched full-length sticks as well as optimized cut pieces.
 
