@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.15 — 2026-09-29
+- Panel layout now marks each piece's factory edge in green too (left for horizontal ducts, top for vertical), matching the cut sheet, so you can tell which end to install first without cross-referencing.
+
 ## v1.0.14 — 2026-09-29
 - Cut plan: fixed a case where the packer could leave one stick with an unnecessarily large gap between two paired pieces even though a same-cost, better-spread pairing existed.
 
